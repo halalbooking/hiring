@@ -1,6 +1,6 @@
 # **Senior Software Engineer (Ruby on Rails, Remote)**
 
-Halalbooking is one of the fastest-growing travel scale-ups in the UK. Similarly to Booking.com and Expedia, we offer end to end hotel booking services but with a unique focus on the halal conscious market. Our platform runs on top of a highly sophisticated data layer enriching standard hotel information and setting us apart in the travel industry.
+Halalbooking is one of the fastest-growing travel companies in the UK. We're an online platform that provides complete hotel booking services - from searching and comparing prices to making reservations - but with a special focus on halal-conscious travellers. Our platform uses advanced technology to enrich standard hotel information with specialised data about halal food options, private leisure facilities, and alcohol-free environments, helping us stand out in the competitive travel industry by giving our customers exactly what they need when planning their trips.
 
 ## **The Role**
 
