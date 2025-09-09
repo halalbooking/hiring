@@ -32,5 +32,9 @@ Our platform is primarily built on Ruby on Rails, with a small portion written i
 
 ## **Our work culture**
 
-We prioritise our time and have a  very low number of meetings, ensuring everyone has uninterrupted periods for deep work and problem-solving. Engineers enjoy a high degree of autonomy and are empowered to take ownership and make impactful decisions. There are plenty of opportunities for growth both in terms of skills and knowledge as we highly value continuous learning and knowledge sharing within our organisation. 
+We prioritise our time and have a very low number of meetings, ensuring everyone has uninterrupted periods for deep work and problem-solving. Engineers enjoy a high degree of autonomy and are empowered to take ownership and make impactful decisions. There are plenty of opportunities for growth both in terms of skills and knowledge as we highly value continuous learning and knowledge sharing within our organisation. 
 
+
+## How to apply
+
+To apply, please send an email with your resume to **turan@halalbooking.com**
