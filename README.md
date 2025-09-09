@@ -2,6 +2,7 @@
 
 Currently open roles:
 * [Senior Software Engineer (Ruby on Rails, Remote)](sse-rails-remote.md)
+* [Lead Infrastructure Engineer (Ruby on Rails, Remote)](lie-rails-remote.md)
 
 ## Why join us?
 
