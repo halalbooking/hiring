@@ -2,11 +2,11 @@
 
 Halalbooking is one of the fastest-growing travel companies in the UK. We're an online platform that provides complete hotel booking services - from searching and comparing prices to making reservations - but with a special focus on halal-conscious travellers. Our platform uses advanced technology to enrich standard hotel information with specialised data about halal food options, private leisure facilities, and alcohol-free environments, helping us stand out in the competitive travel industry by giving our customers exactly what they need when planning their trips.
 
-## **The Role**
+## **The role**
 
 We're looking for a Senior Software Engineer with extensive Ruby on Rails experience to join our remote engineering team. In this role, you'll tackle interesting technical challenges within our large Ruby on Rails stack and contribute to our proprietary data structures and algorithms.
 
-### **Key Responsibilities:**
+### **Key responsibilities:**
 
 * Work on product features and impact customer experience  
 * Develop and maintain our Ruby on Rails-based platform for a quickly scaling business  
@@ -21,7 +21,7 @@ We're looking for a Senior Software Engineer with extensive Ruby on Rails experi
 * Ability to work independently and collaboratively in a remote environment  
 * Passion for creating efficient, scalable, and maintainable code
 
-### **Nice to Have:**
+### **Nice to have:**
 
 * Familiarity with Clojure  
 * Experience with Turbo
